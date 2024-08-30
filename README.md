@@ -52,4 +52,4 @@ Add contrast with a nice box shadow when needed
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MrLanter)
+- Frontend Mentor - [@MrLanter](https://www.frontendmentor.io/profile/MrLanter)

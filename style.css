@@ -31,11 +31,11 @@ body {
     gap: 20px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
-    padding: 20px 20px 45px 20px;
+    padding: 15px 15px 45px 15px;
     width: 300px;
     margin-left: 20px;
     margin-right: 20px;
-    box-shadow: 0px 15px 20px 0px #7f7f7f1f;
+    box-shadow: 0px 15px 20px 0px #7f7f7f14;
 }
 
 .qr-code-img {

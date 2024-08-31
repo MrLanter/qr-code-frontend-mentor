@@ -4,8 +4,10 @@
     margin: 0;
     padding: 0;
     list-style: none;
-    font-family: 'Outfit';
+    font-family: 'Outfit', sans-serif;
     font-weight: 400;
+    border: 0;
+    outline: 0;
 }
 
 html, body, main {
@@ -50,21 +52,21 @@ body {
     gap: 20px;
 }
 
-.title p {
-    font-size: 22px;
+.title {
+    font-size: 1.37rem;
     font-weight: 700;
     text-align: center;
     color: hsl(218, 44%, 22%);
 }
 
-.sub-title p {
-    font-size: 15px;
+.sub-title {
+    font-size: 0.93rem;
     text-align: center;
     color: hsl(216, 15%, 48%);
 }
 
 .attribution {
-    font-size: 11px;
+    font-size: 0.68rem;
     position: absolute;
     left: 20px;
     bottom: 20px;
